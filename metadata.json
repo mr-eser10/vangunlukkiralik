@@ -1,0 +1,6 @@
+{
+  "name": "Van Günlük Kiralık Daire",
+  "description": "Van'da konforlu, hijyenik ve güvenilir günlük kiralık daireler. Rezervasyon talebi oluşturma, daire inceleme ve hızlı WhatsApp iletişimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
